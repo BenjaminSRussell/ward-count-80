@@ -167,3 +167,6 @@
 {"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east court. arc left open. 5 steps. The rebar stays for the wipe."}
 {"n":168,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":169,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the rebar for the wipe. 7 steps, arc on the left lane, open."}
+{"n":170,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The rebar stays for the wipe."}
+{"n":171,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Stockyard fence. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":172,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
