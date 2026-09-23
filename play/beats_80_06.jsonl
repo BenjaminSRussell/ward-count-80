@@ -213,3 +213,6 @@
 {"n":213,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":214,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north court. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north court. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at the Underpass. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":217,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north court. Nia keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north court. arc left open. 4 steps. The radio coil stays for the wipe."}
