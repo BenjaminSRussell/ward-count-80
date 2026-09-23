@@ -731,3 +731,6 @@
 {"n":731,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair east court. Bess keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
 {"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. arc left open. 4 steps. The barrel stays for the wipe."}
 {"n":733,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the pier. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":734,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier east court. Matt keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":735,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east court. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":736,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at the pier. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
