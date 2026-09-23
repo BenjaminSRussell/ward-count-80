@@ -23,3 +23,6 @@
 {"n":23,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Mast yard. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":24,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard west court. Ivo keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
 {"n":25,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west court. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":26,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Mast yard. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":27,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west court. Bess keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west court. arc left open. 8 steps. The lamp stays for the wipe."}
