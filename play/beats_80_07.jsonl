@@ -8,3 +8,6 @@
 {"n":8,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Kessler alley. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":9,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley south court. Nia keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
 {"n":10,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south court. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":11,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Kessler alley. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":12,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. arc left open. 8 steps. The lamp stays for the wipe."}
