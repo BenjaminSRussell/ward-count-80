@@ -654,3 +654,6 @@
 {"n":654,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Kessler alley. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":655,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east court. Bess keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
 {"n":656,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east court. arc left open. 4 steps. The awning stays for the wipe."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Lot. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":658,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east court. Matt keeps the awning for the wipe. 6 steps, arc on the left lane, open."}
+{"n":659,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east court. arc left open. 7 steps. The awning stays for the wipe."}
