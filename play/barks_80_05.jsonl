@@ -968,3 +968,6 @@
 {"n":968,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north court. Ivo keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
 {"n":969,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north court. arc left open. 7 steps. The drum stays for the wipe."}
 {"n":970,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the north court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":971,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north court. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
+{"n":972,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north court. arc left open. 3 steps. The drum stays for the wipe."}
+{"n":973,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
