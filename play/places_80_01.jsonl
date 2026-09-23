@@ -73,3 +73,6 @@
 {"n":73,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. arc left open. 4 steps. The lamp stays for the wipe."}
 {"n":74,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Clinic roof. Nobody past the west court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":75,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof west court. Bess keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
+{"n":76,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. arc left open. 7 steps. The lamp stays for the wipe."}
+{"n":77,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Switchyard. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":78,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard west court. Matt keeps the lamp for the wipe. 2 steps, arc on the left lane, open."}
