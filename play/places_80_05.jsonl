@@ -837,3 +837,6 @@
 {"n":837,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. arc left open. 8 steps. The drum stays for the wipe."}
 {"n":838,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Kessler alley. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":839,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north court. Bess keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":840,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north court. arc left open. 4 steps. The drum stays for the wipe."}
+{"n":841,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Lot. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":842,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north court. Matt keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
