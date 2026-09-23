@@ -525,3 +525,6 @@
 {"n":525,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court north court. Nia keeps the hydrant for the wipe. 5 steps, arc on the left lane, open."}
 {"n":526,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north court. arc left open. 6 steps. The hydrant stays for the wipe."}
 {"n":527,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Mall court. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":528,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court north court. Ivo keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
+{"n":529,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north court. arc left open. 2 steps. The hydrant stays for the wipe."}
+{"n":530,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Mall court. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
