@@ -634,3 +634,6 @@
 {"n":634,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. arc left open. 2 steps. The hydrant stays for the wipe."}
 {"n":635,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at High line. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":636,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north court. Ivo keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
+{"n":637,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The hydrant stays for the wipe."}
+{"n":638,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at High line. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":639,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north court. Bess keeps the hydrant for the wipe. 7 steps, arc on the left lane, open."}
