@@ -834,3 +834,6 @@
 {"n":834,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The crate stays for the wipe."}
 {"n":835,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Stockyard fence. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":836,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":837,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The crate stays for the wipe."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Stockyard fence. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":839,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east court. Bess keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
