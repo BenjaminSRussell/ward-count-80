@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The badge door stays for the wipe."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at High line. Nobody past the south yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":94,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south yard. Matt keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at High line. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south yard. Nia keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
