@@ -36,3 +36,6 @@
 {"n":36,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east court. Ivo keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east court. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":38,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at the Underpass. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":39,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass east court. Bess keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east court. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Mast yard. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
