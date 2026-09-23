@@ -403,3 +403,6 @@
 {"n":403,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north court. arc left open. 2 steps. The plywood stays for the wipe."}
 {"n":404,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at South stair. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":405,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north court. Nia keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
+{"n":406,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north court. arc left open. 5 steps. The plywood stays for the wipe."}
+{"n":407,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at South stair. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":408,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north court. Ivo keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
