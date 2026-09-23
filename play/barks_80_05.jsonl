@@ -899,3 +899,6 @@
 {"n":899,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north court. Bess keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
 {"n":900,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The drum stays for the wipe."}
 {"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Last Light. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":902,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north court. Matt keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":903,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The drum stays for the wipe."}
+{"n":904,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Last Light. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
