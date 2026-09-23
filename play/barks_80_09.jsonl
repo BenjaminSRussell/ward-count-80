@@ -700,3 +700,6 @@
 {"n":700,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. arc left open. 8 steps. The awning stays for the wipe."}
 {"n":702,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Kessler alley. Nobody past the west escape. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":703,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
+{"n":704,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The awning stays for the wipe."}
+{"n":705,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Lot. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
