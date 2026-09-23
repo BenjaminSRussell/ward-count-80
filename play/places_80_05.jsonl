@@ -429,3 +429,6 @@
 {"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. arc left open. 6 steps. The rope stays for the wipe."}
 {"n":430,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the pier. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":431,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north court. Bess keeps the rope for the wipe. 8 steps, arc on the left lane, open."}
+{"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north court. arc left open. 2 steps. The rope stays for the wipe."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Clinic roof. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":434,"kind":"place","name":"Clinic roof north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north court. Matt keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
