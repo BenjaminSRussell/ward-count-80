@@ -923,3 +923,6 @@
 {"n":923,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at the pier. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north court. Ivo keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
 {"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. arc left open. 6 steps. The crate stays for the wipe."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the pier. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north court. Bess keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
+{"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north court. arc left open. 2 steps. The crate stays for the wipe."}
