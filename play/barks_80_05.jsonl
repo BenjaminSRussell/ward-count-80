@@ -422,3 +422,6 @@
 {"n":422,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north court. Matt keeps the rope for the wipe. 6 steps, arc on the left lane, open."}
 {"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north court. arc left open. 7 steps. The rope stays for the wipe."}
 {"n":424,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at the pier. Nobody past the north court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":425,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier north court. Nia keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
+{"n":426,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north court. arc left open. 3 steps. The rope stays for the wipe."}
+{"n":427,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at the pier. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
