@@ -280,3 +280,6 @@
 {"n":280,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at High line. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":281,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line west court. Nia keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
 {"n":282,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west court. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":283,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at High line. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":284,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west court. Ivo keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":285,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west court. arc left open. 5 steps. The radio coil stays for the wipe."}
