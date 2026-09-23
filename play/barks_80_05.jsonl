@@ -668,3 +668,6 @@
 {"n":668,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north court. Ivo keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":669,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. arc left open. 8 steps. The awning stays for the wipe."}
 {"n":670,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Kessler alley. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":671,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north court. Bess keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
+{"n":672,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north court. arc left open. 4 steps. The awning stays for the wipe."}
+{"n":673,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Lot. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
