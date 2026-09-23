@@ -956,3 +956,6 @@
 {"n":956,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north court. Ivo keeps the drum for the wipe. 8 steps, arc on the left lane, open."}
 {"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. arc left open. 2 steps. The drum stays for the wipe."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Switchyard. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":959,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north court. Bess keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
+{"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north court. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Drydock. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
