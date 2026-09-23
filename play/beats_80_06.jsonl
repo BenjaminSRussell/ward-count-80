@@ -990,3 +990,6 @@
 {"n":990,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at High line. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":991,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south court. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Ward gate. Nobody past the south court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":994,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south court. Matt keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
+{"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south court. arc left open. 4 steps. The lamp stays for the wipe."}
