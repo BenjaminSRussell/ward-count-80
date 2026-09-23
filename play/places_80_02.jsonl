@@ -645,3 +645,6 @@
 {"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east court. arc left open. 8 steps. The barrel stays for the wipe."}
 {"n":646,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Kessler alley. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":647,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east court. Bess keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
+{"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east court. arc left open. 4 steps. The barrel stays for the wipe."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the Lot. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":650,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot east court. Matt keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
