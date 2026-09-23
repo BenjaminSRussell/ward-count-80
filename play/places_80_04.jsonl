@@ -679,3 +679,6 @@
 {"n":679,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. arc left open. 5 steps. The barrel stays for the wipe."}
 {"n":680,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":681,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence north court. Nia keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
+{"n":682,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north court. arc left open. 8 steps. The barrel stays for the wipe."}
+{"n":683,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Stockyard fence. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":684,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence north court. Ivo keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
