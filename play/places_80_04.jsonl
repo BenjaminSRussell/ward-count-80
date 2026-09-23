@@ -214,3 +214,6 @@
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east court. arc left open. 2 steps. The radio coil stays for the wipe."}
 {"n":215,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Mast yard. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":216,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east court. Ivo keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east court. arc left open. 5 steps. The radio coil stays for the wipe."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Mast yard. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":219,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east court. Bess keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
