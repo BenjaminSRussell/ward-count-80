@@ -312,3 +312,6 @@
 {"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The radio coil stays for the wipe."}
 {"n":313,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Drydock. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":314,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south court. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
+{"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south court. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":316,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Drydock. Nobody past the south court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":317,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south court. Nia keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
