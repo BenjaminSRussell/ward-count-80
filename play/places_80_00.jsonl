@@ -455,3 +455,6 @@
 {"n":455,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west court. arc left open. 2 steps. The hydrant stays for the wipe."}
 {"n":456,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":457,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west court. Nia keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
+{"n":458,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west court. arc left open. 5 steps. The hydrant stays for the wipe."}
+{"n":459,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Kessler alley. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":460,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the hydrant for the wipe. 7 steps, arc on the left lane, open."}
