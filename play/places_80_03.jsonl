@@ -578,3 +578,6 @@
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east court. arc left open. 3 steps. The shutter stays for the wipe."}
 {"n":579,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at the pier. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":580,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east court. Ivo keeps the shutter for the wipe. 5 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The shutter stays for the wipe."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the pier. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":583,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier east court. Bess keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
