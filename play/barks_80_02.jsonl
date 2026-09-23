@@ -140,3 +140,6 @@
 {"n":140,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west court. arc left open. 8 steps. The radio coil stays for the wipe."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the west court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west court. Bess keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Lot. Nobody past the west court. We wipe in 5 steps. Arc on the left lane, open."}
