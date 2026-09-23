@@ -202,3 +202,6 @@
 {"n":202,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard east court. Matt keeps the rebar for the wipe. 5 steps, arc on the left lane, open."}
 {"n":203,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east court. arc left open. 6 steps. The rebar stays for the wipe."}
 {"n":204,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Mast yard. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":205,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east court. Nia keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
+{"n":206,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east court. arc left open. 2 steps. The rebar stays for the wipe."}
+{"n":207,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Mast yard. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
