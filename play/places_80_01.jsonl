@@ -220,3 +220,6 @@
 {"n":220,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west court. arc left open. 4 steps. The rebar stays for the wipe."}
 {"n":221,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at the pier. Nobody past the west court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":222,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier west court. Matt keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
+{"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west court. arc left open. 7 steps. The rebar stays for the wipe."}
+{"n":224,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at the pier. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":225,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west court. Nia keeps the rebar for the wipe. 2 steps, arc on the left lane, open."}
