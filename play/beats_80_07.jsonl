@@ -572,3 +572,6 @@
 {"n":572,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Mast yard. Nobody past the south court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":573,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south court. Nia keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
 {"n":574,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The shutter stays for the wipe."}
+{"n":575,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Mast yard. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":576,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
+{"n":577,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The shutter stays for the wipe."}
