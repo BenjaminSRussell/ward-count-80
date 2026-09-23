@@ -710,3 +710,6 @@
 {"n":710,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The awning stays for the wipe."}
 {"n":711,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at the Lot. Nobody past the west escape. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":712,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
+{"n":713,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The awning stays for the wipe."}
+{"n":714,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the Lot. Nobody past the west escape. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":715,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west escape. Bess keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
