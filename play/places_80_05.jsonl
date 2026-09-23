@@ -249,3 +249,6 @@
 {"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north court. arc left open. 8 steps. The rebar stays for the wipe."}
 {"n":250,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at South stair. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":251,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north court. Bess keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
+{"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north court. arc left open. 4 steps. The rebar stays for the wipe."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at the pier. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":254,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier north court. Matt keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
