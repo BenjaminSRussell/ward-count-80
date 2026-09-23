@@ -625,3 +625,6 @@
 {"n":625,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line east court. Nia keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
 {"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east court. arc left open. 2 steps. The shutter stays for the wipe."}
 {"n":627,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at High line. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":628,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east court. Ivo keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
+{"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The shutter stays for the wipe."}
+{"n":630,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at High line. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
