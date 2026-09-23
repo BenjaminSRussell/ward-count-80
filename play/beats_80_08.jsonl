@@ -445,3 +445,6 @@
 {"n":445,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the pier. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":446,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier west escape. Matt keeps the plywood for the wipe. 6 steps, arc on the left lane, open."}
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west escape. arc left open. 7 steps. The plywood stays for the wipe."}
+{"n":448,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at the pier. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":449,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier west escape. Nia keeps the plywood for the wipe. 2 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The plywood stays for the wipe."}
