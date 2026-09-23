@@ -74,3 +74,6 @@
 {"n":74,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair north court. Matt keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
 {"n":75,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north court. arc left open. 2 steps. The lamp stays for the wipe."}
 {"n":76,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at South stair. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":77,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair north court. Nia keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
+{"n":78,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north court. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":79,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at South stair. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
