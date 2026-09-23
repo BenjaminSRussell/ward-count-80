@@ -397,3 +397,6 @@
 {"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south court. arc left open. 7 steps. The rope stays for the wipe."}
 {"n":398,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the Underpass. Nobody past the south court. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":399,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass south court. Bess keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
+{"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south court. arc left open. 3 steps. The rope stays for the wipe."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mast yard. Nobody past the south court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south court. Matt keeps the rope for the wipe. 5 steps, arc on the left lane, open."}
