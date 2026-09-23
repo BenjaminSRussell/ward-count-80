@@ -161,3 +161,6 @@
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west escape. arc left open. 7 steps. The lamp stays for the wipe."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Drydock. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":163,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west escape. Bess keeps the lamp for the wipe. 2 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. arc left open. 3 steps. The lamp stays for the wipe."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at High line. Nobody past the west escape. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west escape. Matt keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
