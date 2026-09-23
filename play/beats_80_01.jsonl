@@ -203,3 +203,6 @@
 {"n":203,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Last Light. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":204,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light west court. Ivo keeps the rebar for the wipe. 2 steps, arc on the left lane, open."}
 {"n":205,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west court. arc left open. 3 steps. The rebar stays for the wipe."}
+{"n":206,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Last Light. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":207,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west court. Bess keeps the rebar for the wipe. 5 steps, arc on the left lane, open."}
+{"n":208,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west court. arc left open. 6 steps. The rebar stays for the wipe."}
