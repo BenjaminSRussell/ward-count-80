@@ -407,3 +407,6 @@
 {"n":407,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east court. Bess keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
 {"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. arc left open. 2 steps. The plywood stays for the wipe."}
 {"n":409,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Clinic roof. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":410,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof east court. Matt keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
+{"n":411,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east court. arc left open. 5 steps. The plywood stays for the wipe."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Clinic roof. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
