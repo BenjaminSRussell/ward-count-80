@@ -584,3 +584,6 @@
 {"n":584,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair north court. Ivo keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":585,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north court. arc left open. 8 steps. The shutter stays for the wipe."}
 {"n":586,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at South stair. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":587,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair north court. Bess keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":588,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north court. arc left open. 4 steps. The shutter stays for the wipe."}
+{"n":589,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at the pier. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
