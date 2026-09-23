@@ -627,3 +627,6 @@
 {"n":627,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Switchyard. Nobody past the south court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":628,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
 {"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The hydrant stays for the wipe."}
+{"n":630,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Switchyard. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":631,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south court. Bess keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
+{"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The hydrant stays for the wipe."}
