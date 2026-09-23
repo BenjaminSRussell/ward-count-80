@@ -32,3 +32,6 @@
 {"n":32,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north court. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":33,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Mall court. Nobody past the north court. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":34,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north court. Matt keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":35,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north court. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":36,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Mall court. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":37,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court north court. Nia keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
