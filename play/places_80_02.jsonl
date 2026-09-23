@@ -915,3 +915,6 @@
 {"n":915,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east court. arc left open. 5 steps. The crate stays for the wipe."}
 {"n":916,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Clinic roof. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":917,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof east court. Nia keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
+{"n":918,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east court. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":919,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Clinic roof. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":920,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof east court. Ivo keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
