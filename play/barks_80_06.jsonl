@@ -865,3 +865,6 @@
 {"n":865,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south court. Nia keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":866,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south court. arc left open. 8 steps. The crate stays for the wipe."}
 {"n":867,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Stockyard fence. Nobody past the south court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":868,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":869,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. arc left open. 4 steps. The crate stays for the wipe."}
+{"n":870,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south court. We wipe in 5 steps. Arc on the left lane, open."}
