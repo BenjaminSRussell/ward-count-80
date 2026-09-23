@@ -977,3 +977,6 @@
 {"n":977,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east court. arc left open. 3 steps. The badge door stays for the wipe."}
 {"n":978,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":979,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate east court. Bess keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east court. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":981,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":982,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley east court. Matt keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
