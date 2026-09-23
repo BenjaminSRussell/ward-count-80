@@ -50,3 +50,6 @@
 {"n":50,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Mall court. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":51,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south court. Bess keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
 {"n":52,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":53,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the Underpass. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":54,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south court. Matt keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south court. arc left open. 8 steps. The lamp stays for the wipe."}
