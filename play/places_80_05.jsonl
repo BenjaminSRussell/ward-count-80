@@ -135,3 +135,6 @@
 {"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. arc left open. 6 steps. The lamp stays for the wipe."}
 {"n":136,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at High line. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":137,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line north court. Nia keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
+{"n":138,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. arc left open. 2 steps. The lamp stays for the wipe."}
+{"n":139,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at High line. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":140,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north court. Ivo keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
