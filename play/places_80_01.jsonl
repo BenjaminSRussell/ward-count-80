@@ -865,3 +865,6 @@
 {"n":865,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west court. arc left open. 5 steps. The drum stays for the wipe."}
 {"n":866,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Mast yard. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":867,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west court. Bess keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
+{"n":868,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west court. arc left open. 8 steps. The drum stays for the wipe."}
+{"n":869,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Last Light. Nobody past the west court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":870,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west court. Matt keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
