@@ -243,3 +243,6 @@
 {"n":243,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at the Underpass. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":244,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass west escape. Ivo keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
 {"n":245,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west escape. arc left open. 7 steps. The rebar stays for the wipe."}
+{"n":246,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at the Underpass. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":247,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west escape. Bess keeps the rebar for the wipe. 2 steps, arc on the left lane, open."}
+{"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west escape. arc left open. 3 steps. The rebar stays for the wipe."}
