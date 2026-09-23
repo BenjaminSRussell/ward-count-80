@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. arc left open. 6 steps. The badge door stays for the wipe."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at the pier. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":103,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north court. Bess keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
+{"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north court. arc left open. 2 steps. The badge door stays for the wipe."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Clinic roof. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":106,"kind":"place","name":"Clinic roof north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof north court. Matt keeps the badge door for the wipe. 4 steps, arc on the left lane, open."}
