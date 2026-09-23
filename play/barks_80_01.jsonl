@@ -12,3 +12,6 @@
 {"n":12,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west court. Ivo keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
 {"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west court. arc left open. 7 steps. The lamp stays for the wipe."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Underpass. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":15,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west court. Bess keeps the lamp for the wipe. 2 steps, arc on the left lane, open."}
+{"n":16,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west court. arc left open. 3 steps. The lamp stays for the wipe."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Mast yard. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
