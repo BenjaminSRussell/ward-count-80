@@ -973,3 +973,6 @@
 {"n":973,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate east court. Nia keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":974,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east court. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":975,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Ward gate. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":976,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate east court. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":977,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east court. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":978,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
