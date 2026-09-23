@@ -344,3 +344,6 @@
 {"n":344,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west court. arc left open. 3 steps. The plywood stays for the wipe."}
 {"n":345,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Mast yard. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":346,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard west court. Matt keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
+{"n":347,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west court. arc left open. 6 steps. The plywood stays for the wipe."}
+{"n":348,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":349,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard west court. Nia keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
