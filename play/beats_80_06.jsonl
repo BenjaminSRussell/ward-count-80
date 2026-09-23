@@ -78,3 +78,6 @@
 {"n":78,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Last Light. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":79,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north court. Bess keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
 {"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north court. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":81,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at South stair. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":82,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north court. Matt keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
+{"n":83,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north court. arc left open. 2 steps. The badge door stays for the wipe."}
