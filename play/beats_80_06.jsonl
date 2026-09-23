@@ -336,3 +336,6 @@
 {"n":336,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Kessler alley. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":337,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south court. Nia keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
 {"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south court. arc left open. 5 steps. The plywood stays for the wipe."}
+{"n":339,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Kessler alley. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":340,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
+{"n":341,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. arc left open. 8 steps. The plywood stays for the wipe."}
