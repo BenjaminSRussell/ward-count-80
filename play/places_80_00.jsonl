@@ -614,3 +614,6 @@
 {"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west court. arc left open. 7 steps. The barrel stays for the wipe."}
 {"n":615,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Ward gate. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":616,"kind":"place","name":"Ward gate west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west court. Ivo keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
+{"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west court. arc left open. 3 steps. The barrel stays for the wipe."}
+{"n":618,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Ward gate. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":619,"kind":"place","name":"Ward gate west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west court. Bess keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
