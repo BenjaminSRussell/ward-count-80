@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the pier. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west court. Bess keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
 {"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west court. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof west court. Matt keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west court. arc left open. 5 steps. The radio coil stays for the wipe."}
