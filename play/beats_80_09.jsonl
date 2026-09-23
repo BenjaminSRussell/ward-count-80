@@ -351,3 +351,6 @@
 {"n":351,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Ward gate. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":352,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The rope stays for the wipe."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Ward gate. Nobody past the west escape. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate west escape. Bess keeps the rope for the wipe. 5 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The rope stays for the wipe."}
