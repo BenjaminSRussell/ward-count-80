@@ -291,3 +291,6 @@
 {"n":291,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south court. Bess keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The rebar stays for the wipe."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Switchyard. Nobody past the south court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard south court. Matt keeps the rebar for the wipe. 2 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. arc left open. 3 steps. The rebar stays for the wipe."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Switchyard. Nobody past the south court. We wipe in 4 steps. Arc on the left lane, open."}
