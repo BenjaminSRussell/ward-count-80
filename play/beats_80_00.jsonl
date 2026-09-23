@@ -60,3 +60,6 @@
 {"n":60,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Clinic roof. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":61,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof south yard. Nia keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
 {"n":62,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south yard. arc left open. 8 steps. The badge door stays for the wipe."}
+{"n":63,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Clinic roof. Nobody past the south yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":64,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof south yard. Ivo keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south yard. arc left open. 4 steps. The badge door stays for the wipe."}
