@@ -785,3 +785,6 @@
 {"n":785,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Drydock. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":786,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north court. Matt keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
 {"n":787,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north court. arc left open. 8 steps. The barrel stays for the wipe."}
+{"n":788,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Drydock. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":789,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock north court. Nia keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
+{"n":790,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north court. arc left open. 4 steps. The barrel stays for the wipe."}
