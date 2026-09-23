@@ -457,3 +457,6 @@
 {"n":457,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line east court. Nia keeps the rope for the wipe. 8 steps, arc on the left lane, open."}
 {"n":458,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east court. arc left open. 2 steps. The rope stays for the wipe."}
 {"n":459,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at High line. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":460,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east court. Ivo keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
+{"n":461,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The rope stays for the wipe."}
+{"n":462,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at High line. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
