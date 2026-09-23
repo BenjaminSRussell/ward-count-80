@@ -666,3 +666,6 @@
 {"n":666,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court west court. Matt keeps the awning for the wipe. 2 steps, arc on the left lane, open."}
 {"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west court. arc left open. 3 steps. The awning stays for the wipe."}
 {"n":668,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Mall court. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":669,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court west court. Nia keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
+{"n":670,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west court. arc left open. 6 steps. The awning stays for the wipe."}
+{"n":671,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Mall court. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
