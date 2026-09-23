@@ -181,3 +181,6 @@
 {"n":181,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot north court. Nia keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
 {"n":182,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north court. arc left open. 3 steps. The radio coil stays for the wipe."}
 {"n":183,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at the Lot. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":184,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north court. Ivo keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
+{"n":185,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north court. arc left open. 6 steps. The radio coil stays for the wipe."}
+{"n":186,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the Lot. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
