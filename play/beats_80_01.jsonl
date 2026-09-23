@@ -464,3 +464,6 @@
 {"n":464,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Kessler alley. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":465,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west court. Nia keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
 {"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west court. arc left open. 5 steps. The shutter stays for the wipe."}
+{"n":467,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Kessler alley. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":468,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
+{"n":469,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west court. arc left open. 8 steps. The shutter stays for the wipe."}
