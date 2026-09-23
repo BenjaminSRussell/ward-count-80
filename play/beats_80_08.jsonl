@@ -58,3 +58,6 @@
 {"n":58,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Mall court. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":59,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court south court. Bess keeps the badge door for the wipe. 4 steps, arc on the left lane, open."}
 {"n":60,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The badge door stays for the wipe."}
+{"n":61,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at the Underpass. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":62,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass south court. Matt keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
+{"n":63,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south court. arc left open. 8 steps. The badge door stays for the wipe."}
