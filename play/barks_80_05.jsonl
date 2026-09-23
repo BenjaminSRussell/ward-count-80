@@ -752,3 +752,6 @@
 {"n":752,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north court. Ivo keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north court. arc left open. 8 steps. The awning stays for the wipe."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at South stair. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":755,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north court. Bess keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
+{"n":756,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north court. arc left open. 4 steps. The awning stays for the wipe."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the pier. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
