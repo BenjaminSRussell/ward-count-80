@@ -632,3 +632,6 @@
 {"n":632,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof west escape. Ivo keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
 {"n":633,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west escape. arc left open. 4 steps. The hydrant stays for the wipe."}
 {"n":634,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":635,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof west escape. Bess keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
+{"n":636,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west escape. arc left open. 7 steps. The hydrant stays for the wipe."}
+{"n":637,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Switchyard. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
