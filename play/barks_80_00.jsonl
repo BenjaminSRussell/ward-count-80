@@ -115,3 +115,6 @@
 {"n":115,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south yard. Bess keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
 {"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south yard. arc left open. 6 steps. The radio coil stays for the wipe."}
 {"n":117,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":118,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south yard. Matt keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
+{"n":119,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south yard. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":120,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
