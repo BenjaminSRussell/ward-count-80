@@ -753,3 +753,6 @@
 {"n":753,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west court. Nia keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
 {"n":754,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. arc left open. 6 steps. The awning stays for the wipe."}
 {"n":755,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Switchyard. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":756,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
+{"n":757,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. arc left open. 2 steps. The awning stays for the wipe."}
+{"n":758,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Switchyard. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
