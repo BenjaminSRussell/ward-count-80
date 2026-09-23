@@ -847,3 +847,6 @@
 {"n":847,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Mall court. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":848,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court east court. Ivo keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
 {"n":849,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east court. arc left open. 2 steps. The crate stays for the wipe."}
+{"n":850,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Mall court. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":851,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east court. Bess keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":852,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east court. arc left open. 5 steps. The crate stays for the wipe."}
