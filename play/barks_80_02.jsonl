@@ -680,3 +680,6 @@
 {"n":680,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court east court. Ivo keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
 {"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east court. arc left open. 2 steps. The barrel stays for the wipe."}
 {"n":682,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Mall court. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court east court. Bess keeps the barrel for the wipe. 4 steps, arc on the left lane, open."}
+{"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east court. arc left open. 5 steps. The barrel stays for the wipe."}
+{"n":685,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the Underpass. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
