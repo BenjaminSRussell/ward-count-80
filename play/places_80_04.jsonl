@@ -808,3 +808,6 @@
 {"n":808,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The barrel stays for the wipe."}
 {"n":809,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Ward gate. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":810,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north court. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":811,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The crate stays for the wipe."}
+{"n":812,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Ward gate. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":813,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north court. Nia keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
