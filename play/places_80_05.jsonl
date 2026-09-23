@@ -726,3 +726,6 @@
 {"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north court. arc left open. 2 steps. The awning stays for the wipe."}
 {"n":727,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at Mast yard. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":728,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north court. Ivo keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
+{"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The awning stays for the wipe."}
+{"n":730,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Mast yard. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":731,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north court. Bess keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
