@@ -892,3 +892,6 @@
 {"n":892,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The crate stays for the wipe."}
 {"n":893,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Last Light. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":894,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north court. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":895,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The crate stays for the wipe."}
+{"n":896,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Last Light. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":897,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light north court. Nia keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
