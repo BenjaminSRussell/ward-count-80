@@ -34,3 +34,6 @@
 {"n":34,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Mast yard. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":35,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west court. Bess keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
 {"n":36,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west court. arc left open. 8 steps. The badge door stays for the wipe."}
+{"n":37,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Last Light. Nobody past the west court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":38,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west court. Matt keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":39,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west court. arc left open. 4 steps. The badge door stays for the wipe."}
