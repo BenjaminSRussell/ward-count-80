@@ -473,3 +473,6 @@
 {"n":473,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west escape. Nia keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
 {"n":474,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The plywood stays for the wipe."}
 {"n":475,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Switchyard. Nobody past the west escape. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":476,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
+{"n":477,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The plywood stays for the wipe."}
+{"n":478,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Switchyard. Nobody past the west escape. We wipe in 3 steps. Arc on the left lane, open."}
