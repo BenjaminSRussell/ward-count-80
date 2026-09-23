@@ -519,3 +519,6 @@
 {"n":519,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south court. Bess keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
 {"n":520,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south court. arc left open. 4 steps. The shutter stays for the wipe."}
 {"n":521,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at the Lot. Nobody past the south court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":522,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south court. Matt keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
+{"n":523,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south court. arc left open. 7 steps. The shutter stays for the wipe."}
+{"n":524,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at the Lot. Nobody past the south court. We wipe in 8 steps. Arc on the left lane, open."}
