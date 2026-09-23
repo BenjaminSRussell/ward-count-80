@@ -141,3 +141,6 @@
 {"n":141,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate east court. Nia keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
 {"n":142,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east court. arc left open. 7 steps. The radio coil stays for the wipe."}
 {"n":143,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Ward gate. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":144,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate east court. Ivo keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
+{"n":145,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east court. arc left open. 3 steps. The radio coil stays for the wipe."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Ward gate. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
