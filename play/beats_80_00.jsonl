@@ -828,3 +828,6 @@
 {"n":828,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Mall court. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":829,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court west court. Nia keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
 {"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west court. arc left open. 6 steps. The crate stays for the wipe."}
+{"n":831,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Mall court. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court west court. Ivo keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
+{"n":833,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west court. arc left open. 2 steps. The crate stays for the wipe."}
