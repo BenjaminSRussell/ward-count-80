@@ -498,3 +498,6 @@
 {"n":498,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Mall court. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":499,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west court. Bess keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
 {"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The hydrant stays for the wipe."}
+{"n":501,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Underpass. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":502,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west court. Matt keeps the hydrant for the wipe. 7 steps, arc on the left lane, open."}
+{"n":503,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. arc left open. 8 steps. The hydrant stays for the wipe."}
