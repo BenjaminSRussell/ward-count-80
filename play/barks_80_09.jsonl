@@ -127,3 +127,6 @@
 {"n":127,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier west escape. Bess keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
 {"n":128,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The lamp stays for the wipe."}
 {"n":129,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Clinic roof. Nobody past the west escape. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":130,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
+{"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":132,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Clinic roof. Nobody past the west escape. We wipe in 6 steps. Arc on the left lane, open."}
