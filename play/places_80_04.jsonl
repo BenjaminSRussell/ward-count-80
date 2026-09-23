@@ -100,3 +100,6 @@
 {"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east court. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":101,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Switchyard. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":102,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east court. Matt keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":104,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Switchyard. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":105,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east court. Nia keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
