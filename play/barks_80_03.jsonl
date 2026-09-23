@@ -94,3 +94,6 @@
 {"n":94,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east court. Matt keeps the lamp for the wipe. 2 steps, arc on the left lane, open."}
 {"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The lamp stays for the wipe."}
 {"n":96,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Switchyard. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east court. Nia keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
+{"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The lamp stays for the wipe."}
+{"n":99,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Switchyard. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
