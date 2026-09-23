@@ -729,3 +729,6 @@
 {"n":729,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Mast yard. Nobody past the south court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":730,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south court. Matt keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
 {"n":731,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south court. arc left open. 6 steps. The barrel stays for the wipe."}
+{"n":732,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Mast yard. Nobody past the south court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":733,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south court. Nia keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
+{"n":734,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The barrel stays for the wipe."}
