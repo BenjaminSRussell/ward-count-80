@@ -407,3 +407,6 @@
 {"n":407,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass west escape. Bess keeps the plywood for the wipe. 2 steps, arc on the left lane, open."}
 {"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west escape. arc left open. 3 steps. The plywood stays for the wipe."}
 {"n":409,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Mast yard. Nobody past the west escape. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":410,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard west escape. Matt keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
+{"n":411,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west escape. arc left open. 6 steps. The plywood stays for the wipe."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the west escape. We wipe in 7 steps. Arc on the left lane, open."}
