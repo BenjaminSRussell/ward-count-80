@@ -624,3 +624,6 @@
 {"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The hydrant stays for the wipe."}
 {"n":625,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the east court. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":626,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east court. Matt keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
+{"n":627,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The barrel stays for the wipe."}
+{"n":628,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Ward gate. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":629,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate east court. Nia keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
