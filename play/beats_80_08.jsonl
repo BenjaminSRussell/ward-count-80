@@ -529,3 +529,6 @@
 {"n":529,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Lot. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":530,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot west escape. Matt keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
 {"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. arc left open. 7 steps. The hydrant stays for the wipe."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at the Lot. Nobody past the west escape. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":533,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot west escape. Nia keeps the hydrant for the wipe. 2 steps, arc on the left lane, open."}
+{"n":534,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The hydrant stays for the wipe."}
