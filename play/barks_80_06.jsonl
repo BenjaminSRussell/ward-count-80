@@ -808,3 +808,6 @@
 {"n":808,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south court. Ivo keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
 {"n":809,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The barrel stays for the wipe."}
 {"n":810,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Drydock. Nobody past the south court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":811,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south court. Bess keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
+{"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. arc left open. 3 steps. The barrel stays for the wipe."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at High line. Nobody past the south court. We wipe in 4 steps. Arc on the left lane, open."}
