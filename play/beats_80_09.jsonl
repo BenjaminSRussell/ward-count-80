@@ -30,3 +30,6 @@
 {"n":30,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west escape. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":31,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
 {"n":32,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The lamp stays for the wipe."}
+{"n":33,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the Lot. Nobody past the west escape. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":34,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west escape. Matt keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
+{"n":35,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. arc left open. 7 steps. The lamp stays for the wipe."}
