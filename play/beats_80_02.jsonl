@@ -88,3 +88,6 @@
 {"n":88,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Switchyard. Nobody past the west court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":89,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west court. Nia keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
 {"n":90,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":91,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Switchyard. Nobody past the west court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":92,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
+{"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. arc left open. 2 steps. The badge door stays for the wipe."}
