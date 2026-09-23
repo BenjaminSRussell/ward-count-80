@@ -606,3 +606,6 @@
 {"n":606,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Switchyard. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":607,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east court. Bess keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
 {"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The shutter stays for the wipe."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Drydock. Nobody past the east court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":610,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock east court. Matt keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
+{"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. arc left open. 8 steps. The shutter stays for the wipe."}
