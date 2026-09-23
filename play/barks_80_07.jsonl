@@ -213,3 +213,6 @@
 {"n":213,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south court. Nia keeps the rebar for the wipe. 5 steps, arc on the left lane, open."}
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south court. arc left open. 6 steps. The rebar stays for the wipe."}
 {"n":215,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Mall court. Nobody past the south court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":216,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court south court. Ivo keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south court. arc left open. 2 steps. The rebar stays for the wipe."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Mall court. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
