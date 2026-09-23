@@ -985,3 +985,6 @@
 {"n":985,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the Lot. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":986,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east court. Matt keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
 {"n":987,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east court. arc left open. 7 steps. The lamp stays for the wipe."}
+{"n":988,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at the Lot. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":989,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot east court. Nia keeps the lamp for the wipe. 2 steps, arc on the left lane, open."}
+{"n":990,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east court. arc left open. 3 steps. The lamp stays for the wipe."}
