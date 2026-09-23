@@ -916,3 +916,6 @@
 {"n":916,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
 {"n":917,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. arc left open. 2 steps. The crate stays for the wipe."}
 {"n":918,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Switchyard. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":919,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west court. Bess keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":921,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Drydock. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
