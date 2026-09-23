@@ -463,3 +463,6 @@
 {"n":463,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier west escape. Bess keeps the rope for the wipe. 8 steps, arc on the left lane, open."}
 {"n":464,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. arc left open. 2 steps. The rope stays for the wipe."}
 {"n":465,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Clinic roof. Nobody past the west escape. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":466,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
+{"n":467,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The rope stays for the wipe."}
+{"n":468,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Clinic roof. Nobody past the west escape. We wipe in 6 steps. Arc on the left lane, open."}
