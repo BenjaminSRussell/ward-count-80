@@ -995,3 +995,6 @@
 {"n":995,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north court. Bess keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
 {"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. arc left open. 6 steps. The badge door stays for the wipe."}
 {"n":997,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":998,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley north court. Matt keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
+{"n":999,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north court. arc left open. 2 steps. The badge door stays for the wipe."}
+{"n":1000,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Kessler alley. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
