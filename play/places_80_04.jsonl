@@ -823,3 +823,6 @@
 {"n":823,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north court. arc left open. 2 steps. The crate stays for the wipe."}
 {"n":824,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Kessler alley. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":825,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north court. Nia keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":826,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north court. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":827,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Kessler alley. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":828,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north court. Ivo keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
