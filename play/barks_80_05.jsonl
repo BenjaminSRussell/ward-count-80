@@ -377,3 +377,6 @@
 {"n":377,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north court. Nia keeps the rope for the wipe. 3 steps, arc on the left lane, open."}
 {"n":378,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north court. arc left open. 4 steps. The rope stays for the wipe."}
 {"n":379,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at the Underpass. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":380,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass north court. Ivo keeps the rope for the wipe. 6 steps, arc on the left lane, open."}
+{"n":381,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north court. arc left open. 7 steps. The rope stays for the wipe."}
+{"n":382,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the Underpass. Nobody past the north court. We wipe in 8 steps. Arc on the left lane, open."}
