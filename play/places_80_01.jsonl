@@ -745,3 +745,6 @@
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. arc left open. 4 steps. The awning stays for the wipe."}
 {"n":746,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Clinic roof. Nobody past the west court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":747,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof west court. Bess keeps the awning for the wipe. 6 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. arc left open. 7 steps. The awning stays for the wipe."}
+{"n":749,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Switchyard. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":750,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west court. Matt keeps the awning for the wipe. 2 steps, arc on the left lane, open."}
