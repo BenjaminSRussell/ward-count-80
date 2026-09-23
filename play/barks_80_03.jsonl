@@ -493,3 +493,6 @@
 {"n":493,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot east court. Nia keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
 {"n":494,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east court. arc left open. 3 steps. The shutter stays for the wipe."}
 {"n":495,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at the Lot. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":496,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot east court. Ivo keeps the shutter for the wipe. 5 steps, arc on the left lane, open."}
+{"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. arc left open. 6 steps. The shutter stays for the wipe."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the Lot. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
