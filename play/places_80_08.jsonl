@@ -495,3 +495,6 @@
 {"n":495,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The plywood stays for the wipe."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at High line. Nobody past the west escape. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":497,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west escape. Nia keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
+{"n":498,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The plywood stays for the wipe."}
+{"n":499,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at High line. Nobody past the west escape. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":500,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west escape. Ivo keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
