@@ -819,3 +819,6 @@
 {"n":819,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at High line. Nobody past the south court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south court. Ivo keeps the barrel for the wipe. 4 steps, arc on the left lane, open."}
 {"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south court. arc left open. 5 steps. The barrel stays for the wipe."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at High line. Nobody past the south court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south court. Bess keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
+{"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. arc left open. 8 steps. The barrel stays for the wipe."}
