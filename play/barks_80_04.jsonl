@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north court. Nia keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north court. arc left open. 7 steps. The barrel stays for the wipe."}
 {"n":731,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Last Light. Nobody past the north court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light north court. Ivo keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north court. arc left open. 3 steps. The barrel stays for the wipe."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Last Light. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
