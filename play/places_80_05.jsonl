@@ -57,3 +57,6 @@
 {"n":57,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The lamp stays for the wipe."}
 {"n":58,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Mast yard. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":59,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north court. Bess keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":60,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The lamp stays for the wipe."}
+{"n":61,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Last Light. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":62,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north court. Matt keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
