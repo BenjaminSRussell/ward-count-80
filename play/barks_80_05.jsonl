@@ -143,3 +143,6 @@
 {"n":143,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north court. Bess keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
 {"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The lamp stays for the wipe."}
 {"n":145,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Ward gate. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north court. Matt keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
+{"n":147,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The rebar stays for the wipe."}
+{"n":148,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Ward gate. Nobody past the north court. We wipe in 5 steps. Arc on the left lane, open."}
