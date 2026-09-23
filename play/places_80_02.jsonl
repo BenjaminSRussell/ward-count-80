@@ -363,3 +363,6 @@
 {"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east court. arc left open. 6 steps. The plywood stays for the wipe."}
 {"n":364,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":365,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east court. Nia keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
+{"n":366,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east court. arc left open. 2 steps. The plywood stays for the wipe."}
+{"n":367,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Mast yard. Nobody past the east court. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":368,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east court. Ivo keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
