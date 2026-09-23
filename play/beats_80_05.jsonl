@@ -532,3 +532,6 @@
 {"n":532,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Mall court. Nobody past the north court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":533,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court north court. Nia keeps the shutter for the wipe. 5 steps, arc on the left lane, open."}
 {"n":534,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north court. arc left open. 6 steps. The shutter stays for the wipe."}
+{"n":535,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Mall court. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":536,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north court. Ivo keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
+{"n":537,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north court. arc left open. 2 steps. The shutter stays for the wipe."}
