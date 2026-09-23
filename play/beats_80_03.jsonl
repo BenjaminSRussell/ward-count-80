@@ -75,3 +75,6 @@
 {"n":75,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at the pier. Nobody past the east court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":76,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east court. Ivo keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
 {"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The lamp stays for the wipe."}
+{"n":78,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the pier. Nobody past the east court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":79,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east court. Bess keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
+{"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. arc left open. 2 steps. The lamp stays for the wipe."}
