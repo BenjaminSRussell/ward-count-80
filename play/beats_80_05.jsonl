@@ -982,3 +982,6 @@
 {"n":982,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at High line. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":983,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north court. Bess keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
 {"n":984,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The drum stays for the wipe."}
+{"n":985,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Ward gate. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":986,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north court. Matt keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":987,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The badge door stays for the wipe."}
