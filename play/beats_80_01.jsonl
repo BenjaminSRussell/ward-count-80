@@ -947,3 +947,6 @@
 {"n":947,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the drum at High line. Nobody past the west court. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":948,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west court. Ivo keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
 {"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west court. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at High line. Nobody past the west court. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":951,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west court. Bess keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
+{"n":952,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The drum stays for the wipe."}
