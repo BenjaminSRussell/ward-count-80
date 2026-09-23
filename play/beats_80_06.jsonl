@@ -723,3 +723,6 @@
 {"n":723,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at the Underpass. Nobody past the south court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":724,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass south court. Ivo keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
 {"n":725,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south court. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":726,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at the Underpass. Nobody past the south court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":727,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass south court. Bess keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
+{"n":728,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south court. arc left open. 3 steps. The barrel stays for the wipe."}
