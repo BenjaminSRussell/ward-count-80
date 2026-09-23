@@ -310,3 +310,6 @@
 {"n":310,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north court. Matt keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
 {"n":311,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. arc left open. 6 steps. The radio coil stays for the wipe."}
 {"n":312,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at High line. Nobody past the north court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":313,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north court. Nia keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
+{"n":314,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":315,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at High line. Nobody past the north court. We wipe in 3 steps. Arc on the left lane, open."}
