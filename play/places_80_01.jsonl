@@ -493,3 +493,6 @@
 {"n":493,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. arc left open. 4 steps. The shutter stays for the wipe."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the west court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":495,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west court. Bess keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
+{"n":496,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west court. arc left open. 7 steps. The shutter stays for the wipe."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Mall court. Nobody past the west court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":498,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west court. Matt keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
