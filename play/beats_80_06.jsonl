@@ -171,3 +171,6 @@
 {"n":171,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Kessler alley. Nobody past the north court. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":172,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north court. Ivo keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":174,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the north court. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":175,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley north court. Bess keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north court. arc left open. 4 steps. The radio coil stays for the wipe."}
