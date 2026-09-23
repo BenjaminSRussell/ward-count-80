@@ -980,3 +980,6 @@
 {"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. arc left open. 3 steps. The crate stays for the wipe."}
 {"n":981,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at High line. Nobody past the south court. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":982,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south court. Matt keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
+{"n":983,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south court. arc left open. 6 steps. The crate stays for the wipe."}
+{"n":984,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at High line. Nobody past the south court. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":985,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south court. Nia keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
