@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Drydock. Nobody past the east court. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":120,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east court. Ivo keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":121,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east court. arc left open. 7 steps. The badge door stays for the wipe."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Drydock. Nobody past the east court. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":123,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east court. Bess keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":124,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east court. arc left open. 3 steps. The badge door stays for the wipe."}
